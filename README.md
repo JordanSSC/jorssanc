@@ -5,6 +5,7 @@ proyectos y mis intereses.
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
+* [Tecnologías](#tecnologías)
 ## Información personal
 * Nombre: Jordan Sánchez
 * Ocupación: Estudiante de Ingenieria en Computación
@@ -13,4 +14,10 @@ proyectos y mis intereses.
 ## Proyectos
 * [Lista de tus proyectos]
 ## Intereses
-* [Lista de tus intereses
+* [Lista de tus intereses]
+## Tecnologías
+* Java
+* HTML
+* CSS
+* Python
+* MySQL
